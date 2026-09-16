@@ -1,0 +1,25 @@
+# Результаты компиляции
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Папки сборки
+build/
+Debug/
+Release/
+x64/
+out/
+
+# Служебные файлы IDE
+.vs/
+.vscode/
+.idea/
+*.user
+
+# Библиотеки
+*.a
+*.lib
+*.so
+*.dll
