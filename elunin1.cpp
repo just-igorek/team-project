@@ -9,7 +9,7 @@ double distance(double v, double t){
 //2. Скорость: v = s / t
 double speed(double s, double t){
     if (t == 0){
-        cout << "Error: vrmya cannot be null\n";
+        cout << "Error: time cannot be null\n";
         return -1;
     }
     return s / t;

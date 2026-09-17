@@ -9,7 +9,7 @@ using namespace std;
 
 int main() {
     int choice;
-    double v, f, lambda, T, v0, a, t, s, F, A;
+    double v, F, A, t, s;// бонусом исправил это
 
     do {
         cout << "\n=== Variant 21 - 26 ===\n";
